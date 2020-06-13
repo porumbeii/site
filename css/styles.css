@@ -1,0 +1,43 @@
+body
+{
+    margin:0;
+	padding: 0;
+    background:#F0F0F0;
+	font-family: "Comic Sans MS"
+}
+
+#topHeaderImage
+{
+	display:block;
+	margin-left: auto;
+    margin-right: auto
+}
+
+#menu a:link {
+  color: white;
+  text-decoration: none;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#menu a:visited {
+  color: white;
+  text-decoration: none;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#menu a:focus {
+  color:#596b7c;
+  background: white;
+}
+
+#menu a:hover {
+  color:#596b7c;
+  background: white;
+}
+
+#menu a:active {
+  color:#596b7c;
+  background: white;
+}
